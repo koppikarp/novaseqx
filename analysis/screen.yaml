@@ -1,6 +1,6 @@
 # Screen Information
 experiment:
-  id: ""  # Experiment identifier
+  id: "NovaSeqX"  # Experiment identifier
   notebook_entries: ""  # Links or references to lab notebook entries
   dates: 
     start: ""
@@ -8,7 +8,7 @@ experiment:
 
 # Cellular Conditions
 cellular:
-  cell_line: ""  # e.g., HeLa, HEK293, etc.
+  cell_line: "iPSC"  # e.g., HeLa, HEK293, etc.
   imaging_timepoint: ""  # When imaging occurred after treatment
   treatment:
     summary: ""  # Brief description of treatment
