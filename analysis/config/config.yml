@@ -14,5 +14,5 @@ preprocess:
   - GFP
   - Cy3
   - Far-red
-  sbs_channel_order_flip: null
+  sbs_channel_order_flip: true
   sample_fraction: 1.0
